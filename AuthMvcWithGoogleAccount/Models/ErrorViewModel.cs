@@ -1,5 +1,3 @@
-using System;
-
 namespace AuthMvcWithGoogleAccount.Models
 {
     public class ErrorViewModel
